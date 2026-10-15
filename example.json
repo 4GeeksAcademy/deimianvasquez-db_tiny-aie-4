@@ -1,0 +1,22 @@
+{
+    "_default": {
+        "1": {
+            "lastname": "Deimian V\u00e1squez",
+            "email": "deimian@example.com",
+            "dni": "12345678",
+            "phone": "123-456-7890"
+        },
+        "2": {
+            "lastname": "Angel Tovar",
+            "email": "angel@example.com",
+            "dni": "87654321",
+            "phone": "987-654-3210"
+        },
+        "3": {
+            "lastname": "Atilio V\u00e1squez",
+            "email": "atilio@example.com",
+            "dni": "11223344",
+            "phone": "111-222-3333"
+        }
+    }
+}
